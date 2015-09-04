@@ -21,7 +21,7 @@ gsettings set org.gnome.desktop.interface clock-format 12h;
 gsettings set org.gnome.desktop.interface clock-show-date true;
 
 #launcher
-gsettings set org.gnome.shell favoriate-apps "['google-chrome.desktop', 'gnome-terminal,desktop', 'gedit.desktop', 'nautilus.desktop', 'iceweasel.desktop', 'gnome-calculator.desktop']"
+gsettings set org.gnome.shell favorite-apps "['google-chrome.desktop', 'gnome-terminal,desktop', 'gedit.desktop', 'nautilus.desktop', 'iceweasel.desktop', 'gnome-calculator.desktop']"
 
 #monospace
 gsettings set org.gnome.desktop.interface monospace-font-name "Monospace 9";
